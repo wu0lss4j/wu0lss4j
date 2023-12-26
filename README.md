@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wu0lss4j
+- 👋 Hi, I’m Bruno // @wu0lss4j
 - 👀 I’m interested in all things scripting automation in particular and the mobile internet in general
 - 🌱 I’m currently learning GOLANG
 - 💞️ I’m looking to collaborate on ... no idea
