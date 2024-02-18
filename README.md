@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... no idea
 - 📫 How to reach me ... somewhere there is a link for that
 
-TIA → [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T2Q57QX)
+TIA:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T2Q57QX)
 
 <!---
 wu0lss4j/wu0lss4j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
