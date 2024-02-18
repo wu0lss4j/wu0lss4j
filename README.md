@@ -1,3 +1,5 @@
+In short:
+
 - 👋 Hi, I’m Bruno // @wu0lss4j
 - 👀 I’m interested in all things scripting automation in particular and the mobile internet in general
 - 🌱 I’m currently learning GOLANG
