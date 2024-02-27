@@ -1,8 +1,10 @@
 In short:
 
-- 👋 Hi, I’m Bruno // @wu0lss4j
+- 👋 Hi, I’m Bruno / @wu0lss4j
+- 🎓 C was my favorite programmin language when I was studying
+- 💼 In the past I was deep into Excel and VBA
 - 👀 I’m interested in all things scripting automation in particular and the mobile internet in general
-- 🌱 I’m currently learning GOLANG
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ... no idea
 - 📫 How to reach me ... somewhere there is a link for that
 
