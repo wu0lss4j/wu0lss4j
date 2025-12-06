@@ -8,7 +8,7 @@ In short:
 - 💞️ I’m looking to collaborate on ... no idea
 - 📫 How to reach me ... somewhere there is a link for that
 
-I'm busy with this >>> [Advent of Code](https://github.com/wu0lss4j/AdventOfCode2025)
+I'm busy with this >>> [Advent of Code 2025](https://github.com/wu0lss4j/AdventOfCode2025)
 
 TIA:
 
