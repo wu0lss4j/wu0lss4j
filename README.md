@@ -4,11 +4,13 @@ In short:
 - 🎓 C was my favorite language when I was studying
 - 💼 In the past I was deep into MSExcel and VBA
 - 👀 I’m interested in all things scripting automation in particular and the mobile internet in general
-- 🌱 I’m currently learning python, golang, bash, and awk
+- 🌱 I’m currently learning python/bash/sqlite3 scripting (golang, awk, and godot will have to wait)
 - 💞️ I’m looking to collaborate on ... no idea
 - 📫 How to reach me ... somewhere there is a link for that
 
 I'm busy with this >>> [Advent of Code 2025](https://github.com/wu0lss4j/AdventOfCode2025)
+
+...finally I Heart Checksums!
 
 TIA:
 
